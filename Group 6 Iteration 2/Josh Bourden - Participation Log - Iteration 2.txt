@@ -1,0 +1,8 @@
+Josh Bourden
+200541050
+
+I participated in the following tasks for iteration 2:
+
+- Select computer difficulty settings Fully Dressed Use Case
+- Assisted Sanjid with the Class Diagram
+- Helped create the minor release
