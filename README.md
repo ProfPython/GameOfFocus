@@ -1,12 +1,14 @@
 # GameOfFocus
 
 INTRODUCTION 
+
 In this project, we seek to build a board game called Domination. Domination is a 
 multiplayer turn-based strategy game with emphasis on control. The player makes 
 strategized moves and tries to conquer the game by capturing opponent pieces, 
 rendering their moves useless. 
 
 PROBLEM STATEMENT 
+
 The game is based on coloured pieces and there might be players whose ability to 
 distinguish colours and shades are different than others. Our version of the game 
 would provide these affected players with the ability to play the game without any 
@@ -15,10 +17,15 @@ in the game and will greatly improve the flow of a game where affected players a
 in.
 
 SUMMARY OF THE SYSTEM FEATURES 
+
 • The system shall allow the users to play a game involving four players with at least one human 
+
 • The system shall allow the ability to save a game 
+
 • The system shall allow the users increase difficulty 
+
 • The system shall allow the ability to resume a game 
+
 • The system shall accommodate users with colour deficiency 
  
 ![dom1](https://user-images.githubusercontent.com/77641869/172978476-eb5ef709-2530-4b75-983e-8e6833b24e45.PNG)
